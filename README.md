@@ -8,3 +8,6 @@ This application was written for two different platforms, Android and IOS. The I
 
 # IOS Demo
 <img src='http://i.imgur.com/bD8gNJo.gif' title='Video Walkthrough' width='400px' style='width: 1000px; height: 4000px;' a    lt='Video Walkthrough' />
+
+# Android Demo
+<img src='http://i.imgur.com/qxl3I7R.gif' title='Video Walkthrough' width='400px' style='width: 1000px; height: 4000px;' a    lt='Video Walkthrough' />
