@@ -3,6 +3,12 @@
 # Intelligent Locations LLC
 Intelligent locations LLC is a start-up based out of the greater Chicagoland area that speicializes in medical assset tracking systems for hospitals. This application was developed for Intelligent Locations LLC as a end user application to communicate the location of assets in a hospial to the hospitals staff. 
 
+# Features
+- Filtering of main table based on type, location and status of assets
+- Bluetooth "hot cold" finding tool
+- Easily Understood UI
+- Data Persistance
+
 # Software Language
 This application was written for two different platforms, Android and IOS. The IOS version was written using the Swift programming language, utilizing many of Apples frameworks. The Android version was written using Java and the Android SDK.
 
